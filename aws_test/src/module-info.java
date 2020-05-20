@@ -1,0 +1,2 @@
+module aws_test {
+}
